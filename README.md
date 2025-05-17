@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Tripti Viswakarma</h1>
+<h3 align="center">A passionate Full Stack Data Science from India👇</h3>
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/tripti2004) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/triptivishwakarma2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:triptivishwakarma2004@gmail.com) 
 
 # 💻 Tech Stack:
